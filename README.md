@@ -1,6 +1,6 @@
 <!-- Free College course notes and code  -->
 
-### PROJECT PLAN AND STATUS
+### -- PROJECT PLAN AND STATUS --
 
 The main courses I am wanting to go through currently are:
 - Harvard CS50 Python and CS
@@ -19,6 +19,9 @@ Harvard CS50 SQL:
 
 MIT 6100L Python and CS:
 - [ ] Notes and code on lecture 1; expected completion by 2024/06/01
+
+### -- END OF PROJECT PLAN AND STATUS --
+
 
 # College Courses
 
