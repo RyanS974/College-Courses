@@ -9,15 +9,16 @@ The main courses I am wanting to go through currently are:
 - MIT 6100L Python and CS
 
 Harvard CS50 Python and CS:
-[ ] Notes and code on lecture 1
+- [ ] Notes and code on lecture 1
 
 Harvard CS50 Python and AI:
+- [ ] Notes and code on lecture 1
 
 Harvard CS50 SQL:
-[ ] Notes and code on lecture 1
+- [ ] Notes and code on lecture 1
 
 MIT 6100L Python and CS:
-[ ] Notes and code on lecture 1
+- [ ] Notes and code on lecture 1
 
 # College-Courses
 
